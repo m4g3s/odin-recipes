@@ -1,0 +1,43 @@
+body {
+    background-color: rgb(61, 61, 61);
+    color: white;
+    font-family: Papyrus;
+}
+
+.title {
+    color: #f69b62;
+    text-align: center;
+}
+
+.intro {
+    font-size: 22px;
+    text-align: center;
+    color: #f69b62;
+}
+
+.logo {
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+    max-width: 250px;
+}
+
+.menu {
+    text-align: center;
+}
+
+.menu a {
+    color: #f69b62;
+}
+
+.menu a:visited {
+    color: #f69b62;
+}
+
+.nav a {
+    color: #f69b62;
+}
+
+.nav a:visited {
+    color: #f69b62;
+}
